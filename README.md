@@ -31,13 +31,13 @@ You should aim to:
    4.Ensure the application is user-friendly and efficient.
    
 # Technical Tags:
-   Web Scraping
-   Selenium
-   Streamlit
-   SQL
-   Data Analysis
-   Python
-   Interactive Application
+   Web Scraping,
+   Selenium,
+   Streamlit,
+   SQL,
+   Data Analysis,
+   Python,
+   Interactive Application.
    
 # Data Set:
    1.Source: Data will be scraped from the Redbus website.
