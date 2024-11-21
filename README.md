@@ -30,15 +30,15 @@ The solution can be applied to various business scenarios including:
    
 3.Streamlit Application:
 
-   Develop a Streamlit application to display and filter the scraped data.
+   * Develop a Streamlit application to display and filter the scraped data.
    
-   Implement various filters such as bustype, route, price range, star rating, availability.
+   * Implement various filters such as bustype, route, price range, star rating, availability.
    
 4.Data Analysis/Filtering using Streamlit:
 
-   Use SQL queries to retrieve and filter data based on user inputs.
+   * Use SQL queries to retrieve and filter data based on user inputs.
    
-   Use Streamlit to allow users to interact with and filter the data through the application.
+   * Use Streamlit to allow users to interact with and filter the data through the application.
    
 # Results:
 
